@@ -20,12 +20,14 @@ This tool works on laptops using the **TongFang GM7MP0P chassis**, including:
 
 - Toggle between **Normal** and **Turbo** fan modes
 - Single executable, no installation needed
-- Lightweight (< 50KB)
+- Lightweight SLIM: (~700KB)
+- Full: (~70MB)
 - Can be assigned to keyboard shortcuts (Fn+F key combinations)
 
 ## 📥 Download
 
-**[Download TongFangFanSwitcher.exe](https://github.com/trup40/TongFangFanSwitcher/releases/latest/download/TongFangFanSwitcher.exe)**
+**[Download SLIM TongFangFanSwitcher.exe](https://github.com/trup40/TongFangFanSwitcher/releases/latest/download/TongFangFanSwitcher_SLIM.exe)**
+**[Download FULL TongFangFanSwitcher.exe](https://github.com/trup40/TongFangFanSwitcher/releases/latest/download/TongFangFanSwitcher.exe)**
 
 ## 🚀 Usage
 
